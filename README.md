@@ -13,3 +13,7 @@ git remote set-url https://github.com/yyater97/learn-git.git
 
 # Git rebase
 Git rebase <destination branch>
+
+# Git merge
+Git checkout <want to merge branch>
+Git merge <resource branch>
