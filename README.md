@@ -10,3 +10,6 @@ ex: git remote add origin git@github.com:yyater97/learn-git.git
 
 
 git remote set-url https://github.com/yyater97/learn-git.git
+
+# Git rebase
+Git rebase <destination branch>
